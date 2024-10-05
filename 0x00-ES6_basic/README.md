@@ -1,0 +1,1 @@
+This project let us dive in ES6 by exploring new features introduced in ES6, the difference between a constant and a variable, block-scoped variables, arrow functions and function parameters default to them, rest and spread function parameters, string templating in ES6, object creation and their properties in ES6 iterators and for-of loops.
